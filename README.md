@@ -1,4 +1,6 @@
 # Marketing-Campaignanalysis
+<img width="1557" height="852" alt="image" src="https://github.com/user-attachments/assets/6fb9d058-7c7e-4c08-89ab-395ba4c07a93" />
+
 Marketing Campaignanalysis Using Power BI
 📊 Marketing Campaign Analysis Dashboard
 🧠 Project Overview
